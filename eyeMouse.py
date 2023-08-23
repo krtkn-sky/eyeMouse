@@ -1,3 +1,5 @@
+# You handle the cursor with your left eye, wink to click
+
 import cv2
 import mediapipe as mp
 import pyautogui
